@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logical Operators", "Logical Operators\Logical Operators.csproj", "{FEC951BF-E589-4A19-9BFA-264370071DC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEC951BF-E589-4A19-9BFA-264370071DC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEC951BF-E589-4A19-9BFA-264370071DC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEC951BF-E589-4A19-9BFA-264370071DC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEC951BF-E589-4A19-9BFA-264370071DC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83529848-CEA0-41C6-8350-7A32596C0501}
+	EndGlobalSection
+EndGlobal
